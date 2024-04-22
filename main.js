@@ -1,1 +1,6 @@
-console.log('hola Mundo v2')
+let numA = 30   
+let numB = 20
+
+let res = numB + numA
+
+console.log(res)
